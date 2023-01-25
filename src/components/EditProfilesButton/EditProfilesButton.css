@@ -1,0 +1,8 @@
+#editProfilesButton {
+    display: inline;
+    border: none;
+    padding: 0;
+    background: transparent;
+    letter-spacing: 0.75px;
+    font-weight: 100;
+}
