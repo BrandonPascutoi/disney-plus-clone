@@ -12,7 +12,7 @@ const reducer = createReducer(initialState, (builder) => {
     })
 })
 
-const store = configureStore({ reducer: rootReducer })
+const store = configureStore({ reducer: reducer })
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
