@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import EditProfilesButtonContainer from './components/EditProfilesButtonContainer/EditProfilesButtonContainer';
-import WhosWatchingContainer from './components/WhosWatchingContainer/WhosWatchingContainer';
+import WhosWatchingContainer from './components/WhosWatchingContainer/WhosWatchingContainer'
 
 function App() {
   return (
