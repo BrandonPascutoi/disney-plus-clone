@@ -1,5 +1,5 @@
 import './EditProfilesButtonContainer.css'
-import EditProfilesButton from '../EditProfilesButton/EditProfilesButton'
+import EditProfilesButton from './EditProfilesButton/EditProfilesButton'
 
 const EditProfilesButtonContainer = () => {
     return (
