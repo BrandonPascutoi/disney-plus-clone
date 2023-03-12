@@ -2,4 +2,5 @@
     height: 25%;
     background-color: black;
     top: 6%;
+    justify-content: space-evenly;
 }
