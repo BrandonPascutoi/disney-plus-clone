@@ -8,7 +8,7 @@ const IndividualProfileContainer = props => {
         <div className='individualProfileContainer h-100 w-25 d-flex flex-column justify-content-between align-items-center'>
             <IndividualProfileContainerImage image={props.image}/>
             <IndividualProfileContainerName name={props.name}/>
-            <IndividualProfileContainerLock />
+            <IndividualProfileContainerLock locked={props.locked}/>
         </div>
     )
 }
