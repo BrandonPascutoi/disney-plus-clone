@@ -3,6 +3,7 @@ import './App.css';
 import EditProfilesButtonContainer from './components/EditProfilesButtonContainer/EditProfilesButtonContainer';
 import WhosWatchingContainer from './components/WhosWatchingContainer/WhosWatchingContainer'
 import ProfileIconsContainer from './components/ProfilePickerSection/ProfileIconsContainer/ProfileIconsContainer';
+import AddProfileButtonContainer from './components/ProfilePickerSection/AddProfileButton/AddProfileButtonContainer';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <EditProfilesButtonContainer />
       <WhosWatchingContainer />
       <ProfileIconsContainer />
+      <AddProfileButtonContainer />
     </div>
   );
 }
