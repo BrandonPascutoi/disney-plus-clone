@@ -1,0 +1,7 @@
+.plusButton {
+    background-color: rgba(249, 249, 249, 0.1);
+    height: 86.25px;
+    border-radius: 100%;
+    border: none;
+    font-size: 3rem;
+}
